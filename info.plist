@@ -1,0 +1,10 @@
+{
+    "CFBundleGetInfoString" = "KILLDOCK";
+    "CFBundleExecutable" = "killdock.sh";
+    "CFBundleIdentifier" = "com.yourcompany.KILLDOCK";
+    "CFBundleName" = "KILLDOCK";
+    "CFBundleIconFile" = "dock_icon.icns";
+    "CFBundleShortVersionString" = "1.0";
+    "CFBundleVersion" = "1.0";
+    "CFBundlePackageType" = "APPL";
+}
